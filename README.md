@@ -43,7 +43,7 @@ Jupyter Notebook
 Required libraries: numpy, pandas, scikit-learn, matplotlib, seaborn, XGBoost, LightGBM
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/movie-rating-prediction.git
+git clone https://github.com/iamsanusinghh/movie-rating-prediction.git
 cd movie-rating-prediction
 Install the required libraries:
 pip install -r requirements.txt
